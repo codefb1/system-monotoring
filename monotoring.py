@@ -1,3 +1,4 @@
+#c'est un simple script python pour une simple supervision système 
 import psutil    #pour installer psutil " pip install psutil"
 import datetime
 import pandas   #pour installer pandas " ip install pandas "
